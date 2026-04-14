@@ -10,23 +10,31 @@
 
 <p style="font-size:40px;">Windows端</p>
 
+（点击链接即可跳转）
 
-
-- [Bitwarden](#bitwarden) 密码管理器
+- [Bitwarden](#bitwarden) ：密码管理器
 
 
 
 <p style="font-size:40px;">Android端</p>
 
+（点击链接即可跳转）
 
-
-- [Bitwarden](#bitwarden) 密码管理器
+- [Bitwarden](#bitwarden) ：密码管理器
 
 
 
 ### [Bitwarden](#bitwardern)
 
+官网：https://bitwarden.com/
 
+开源透明 + 端到端加密安全性高，支持自部署
 
-[回到顶部](#my-awesome-tools)
+Chrome Extensions，Windows，Android数据通用，免费版功能还是很足的。
+
+<img src="./assets/image-20260414133202157.png" alt="image-20260414133202157" style="zoom:50%;" />
+
+<img src="./assets/image-20260414133226004.png" alt="image-20260414133226004" style="zoom:50%;" />
+
+[⬆️ 返回顶部](#my-awesome-tools)
 

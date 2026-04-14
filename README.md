@@ -1,4 +1,4 @@
-# [My Awesome Tools](#my-awesome-tools)
+# My Awesome Tools
 
 本人自己使用的软件，工具。
 
@@ -24,7 +24,7 @@
 
 
 
-### [Bitwarden](#bitwarder)
+### [Bitwarden](#bitwardern)
 
 
 

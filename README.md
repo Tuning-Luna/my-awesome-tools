@@ -1,45 +1,32 @@
-#### My Awesome Tools
+# [My Awesome Tools](#my-awesome-tools)
 
-### 
+本人自己使用的软件，工具。
 
-#### 快速目录
+都至少符合开源，免费，轻量化，无广告之一。
 
-1. [运行器与开发环境](#运行器与开发环境)
-2. [🎨 UI 框架与样式](https://www.google.com/search?q=%23-ui-框架与样式)
-3. [📊 数据库与存储](https://www.google.com/search?q=%23-数据库与存储)
+由于本人算半个Geek，喜欢折腾电脑，所以这类工具找的比较多，有时候突然想不起来了，故建立此仓库。方便自己记录，同时做出分享。
 
-------
 
-### 运行器与开发环境
 
-这里收集了我平时使用的各种高性能运行时和命令行工具。
+<p style="font-size:40px;">Windows端</p>
 
-- **Bun**: 极快的 JavaScript 运行时，集成了打包器、测试运行器和包管理器。
-- **WSL (Ubuntu)**: 在 Windows 上顺畅运行 Linux 环境的必备工具。
 
-[⬆️ 返回顶部](#)
 
-------
+- [Bitwarden](#bitwarden) 密码管理器
 
-#### 🎨 UI 框架与样式
 
-用于构建现代、响应式界面的前端库。
 
-- **Tailwind CSS**: 一个原子类优先的 CSS 框架，大大提升了 UI 开发效率。
-- **Vue 3**: 易上手且性能强大的渐进式 JavaScript 框架。
+<p style="font-size:40px;">Android端</p>
 
-[⬆️ 返回顶部](#)
 
-------
 
-#### 📊 数据库与存储
+- [Bitwarden](#bitwarden) 密码管理器
 
-专注于轻量级和高性能的数据持久化方案。
 
-- **SQLite**: 零配置、跨平台的自包含数据库引擎。
-- **Zustand**: 纯净、轻量的前端状态管理库。
 
-[⬆️ 返回顶部](#)
+### [Bitwarden](#bitwarder)
 
-----
+
+
+[回到顶部](#my-awesome-tools)
 

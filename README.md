@@ -33,6 +33,7 @@
 - [RyTuneX](#RyTuneX)： Windows 调优工具
 - [qBittorrent-Enhanced-Edition](#qBittorrent-Enhanced-Edition)：种子下载工具增强版
 - [DawnLauncher](#DawnLauncher)：Windows快捷启动工具
+- [ElegantClipboard](#ElegantClipboard)：剪贴板
 
 ### Android
 
@@ -381,6 +382,26 @@ Google Play：https://play.google.com/store/apps/details?id=in.krosbits.musicole
 **本地**音乐播放器，挺喜欢其简洁的风格的。
 
 如果需要流媒体音乐播放器，我推荐[Spotify](https://open.spotify.com/)，推荐算法顶级，使用体验满分。
+
+[⬆️ 返回顶部](#my-awesome-tools)
+
+---
+
+
+
+### ElegantClipboard
+
+- GitHub：https://github.com/Y-ASLant/ElegantClipboard
+
+低占用、高性能、现代化、高度自定义，本地化离线剪贴板。使用了Tauri框架+Rust后端，可以说兼具美观和性能了。
+
+比WIndows自带的Win+V呼出的剪切板相比，多了许多功能，还能解决 [Bitwarden](#Bitwarden) 使用 Random Generate Password 无法复制到Windows自带的剪切板功能。
+
+<img src="./assets/image-20260429162228335.png" alt="image-20260429162228335" style="zoom:50%;" />
+
+<img src="./assets/image-20260429162256997.png" alt="image-20260429162256997" style="zoom:50%;" />
+
+
 
 [⬆️ 返回顶部](#my-awesome-tools)
 
